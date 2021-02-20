@@ -62,6 +62,12 @@ a {
   border-radius: 2px;
 }
 
+.link-list-item-img {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .highlighted,
 .link-list-item:hover,
 a:hover {
